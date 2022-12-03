@@ -23,7 +23,7 @@
   <img height="40" align="center" alt="Erica-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/PnUatAYWMEMvmiwsyx/giphy.gif">
+  <img align="right" height="180em" alt="Erica-yoda" src="[https://media.giphy.com/media/PnUatAYWMEMvmiwsyx/giphy.gif](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)">
 </div>
   
 </br>
