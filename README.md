@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif?cid=790b7611t2yr6xcpncs2uxwv053ugssytqgwxbl34rz09l0x&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
 ###
 
 # 💫 About Me:
