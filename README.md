@@ -4,6 +4,12 @@
 *I'm a student with passion for Artificial Intelligence and keen interest in Web Development and Cybersecurity. I love building responsive, user-friendly websites and exploring the latest tech trends.*<br><br>
 🔭 I’m currently working on creating neural networks with pyTorch<br>🌱 I’m currently learning about AI models<br>💡 Interested in: Web Dev, AI/ML, Cybersecurity, and Open Source<br>⚡ Fun fact: I like to automate doing my assignments with the help of AI
 
+###
+
+<img src="https://raw.githubusercontent.com/abdullashahzan/abdullashahzan/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullashahzan/abdullashahzan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullashahzan/abdullashahzan/output/pacman-contribution-graph.svg">
@@ -37,3 +43,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abdullashahzan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+###
