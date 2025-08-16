@@ -8,14 +8,6 @@
 
 <img src="https://raw.githubusercontent.com/abdullashahzan/abdullashahzan/output/snake.svg" alt="Snake animation" />
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullashahzan/abdullashahzan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullashahzan/abdullashahzan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdullashahzan/abdullashahzan/output/pacman-contribution-graph.svg">
-</picture>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abd.sz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullashahzan) 
 
@@ -34,13 +26,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdullashahzan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<div>
-  <h1>👀 Profile views: </h1>
-  <img src="https://profile-counter.glitch.me/abdullashahzan/count.svg?"/>
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=abdullashahzan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
