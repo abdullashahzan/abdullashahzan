@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 *Saudi National Champion and 3rd place award winner at Huawei ICT Regional Competition (Middle East and Central Asia) in Cloud and AI*<br><br>
-🔭 I’m currently studying at KAUST Academy for AI programming (Stage 2)<br>💡 Interested in: Web Dev, AI/ML, Cybersecurity, and Open Source<br>⚡ Fun fact: I am hella lazy 
+🔭 I’m currently working on bionic eye research.<br>💡 Interested in: AI/ML, Cybersecurity, and Open Source<br>⚡ Fun fact: I am hella lazy 
 
 ###
 
