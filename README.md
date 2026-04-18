@@ -70,7 +70,7 @@ Currently a CE student at KKU. Neuroscience didn't invite me. I picked the lock.
 
 <div align="center">
 
-*"Simplicity is the ultimate sophistication." — Leonardo da Vinci*
+*"What I cannot create, I do not understand." — Richard Feynman*
 
 </div>
 
