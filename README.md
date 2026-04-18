@@ -9,6 +9,8 @@
 ╚═╝        ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝     ╚═╝
 ```
 
+Hello, World!
+
 ---
 
 ## 🧬 About Me
@@ -24,20 +26,6 @@ I'm a Computer Science student researching **visual cortical prosthetics** — b
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=abdullashahzan&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Streak](http://github-readme-streak-stats.herokuapp.com/?user=abdullashahzan&theme=radical&hide_border=true&bg_color=0d1117&fire=ff7b72&ring=ff7b72&currStreakLabel=ff7b72)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullashahzan&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&layout=compact)
-
-</div>
-
----
-
 ## 🚀 Featured Research
 
 <div align="center">
@@ -50,27 +38,13 @@ I'm a Computer Science student researching **visual cortical prosthetics** — b
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Most Used Languages
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Django](https/img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullashahzan&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&layout=compact)
 
 </div>
-
----
-
-## 📚 Knowledge Base
-
-| Domain | Technologies |
-|--------|--------------|
-| AI / ML | Neural Networks, PyTorch, Gradient Descent Optimization |
-| Signal Processing | FFT, DFT, Signal Analysis |
-| Backend | Django, SQL Database Design |
-| Languages | English, Hindi, Arabic |
 
 ---
 
