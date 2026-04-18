@@ -1,16 +1,21 @@
-# 👋 Welcome
+# 👋 Hi! It's me
+
+![Steins;Gate](https://media.giphy.com/media/l0HlPystfePnAI3W8/giphy.gif)
 
 ```
-███╗   ███╗ █████╗ ██████╗     ███████╗ ██████╗██╗███████╗███╗   ██╗████████╗██╗███████╗████████╗██╗
-████╗ ████║██╔══██╗██╔══██╗    ██╔════╝██╔════╝██║██╔════╝████╗  ██║╚══██╔══╝██║██╔════╝╚══██╔══╝██║
-██╔████╔██║███████║██║  ██║    ███████╗██║     ██║█████╗  ██╔██╗ ██║   ██║   ██║███████╗   ██║   ██║
-██║╚██╔╝██║██╔══██║██║  ██║    ╚════██║██║     ██║██╔══╝  ██║╚██╗██║   ██║   ██║╚════██║   ██║   ╚═╝
-██║ ╚═╝ ██║██║  ██║██████╔╝    ███████║╚██████╗██║███████╗██║ ╚████║   ██║   ██║███████║   ██║   ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝     ╚══════╝ ╚═════╝╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚══════╝   ╚═╝   ╚═╝
+██████╗ ██╗   ██╗██████╗ ███████╗██████╗     ███████╗ ██████╗██╗███████╗███╗   ██╗████████╗██╗███████╗████████╗██╗
+██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔════╝██╔════╝██║██╔════╝████╗  ██║╚══██╔══╝██║██╔════╝╚══██╔══╝██║
+██║  ██║ ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ███████╗██║     ██║█████╗  ██╔██╗ ██║   ██║   ██║███████╗   ██║   ██║
+██║  ██║  ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ╚════██║██║     ██║██╔══╝  ██║╚██╗██║   ██║   ██║╚════██║   ██║   ╚═╝
+██████╔╝   ██║   ██████╔╝███████╗██║  ██║    ███████║╚██████╗██║███████╗██║ ╚████║   ██║   ██║███████║   ██║   ██╗
+╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚══════╝   ╚═╝   ╚═╝
 ```
+
 ---
 
 ## 🧬 About Me
+
+![Kurisu](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif)
 
 **At the intersection of Biology & Computer Science**
 
@@ -25,6 +30,8 @@ I'm a Computer Science student researching **visual cortical prosthetics** — b
 
 ## 🚀 Featured Research
 
+![El Psy Kongroo](https://media.giphy.com/media/l0Iy69GBqW1fISRmU/giphy.gif)
+
 <div align="center">
 
 [![Cortical Prosthetics Research](https://img.shields.io/badge/🧠-Cortical_Prosthetics_Research-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullashahzan/cortical-prosthetics-research)
@@ -37,6 +44,8 @@ I'm a Computer Science student researching **visual cortical prosthetics** — b
 
 ## 📊 Most Used Languages
 
+![Hououin Kyouma](https://media.giphy.com/media/26vU1pF0k35hEviAM/giphy.gif)
+
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullashahzan&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&layout=compact)
@@ -46,6 +55,8 @@ I'm a Computer Science student researching **visual cortical prosthetics** — b
 ---
 
 ## 🤝 Connect
+
+![Time Travel](https://media.giphy.com/media/l41YtZOb9EUABi5lS/giphy.gif)
 
 <div align="center">
 
