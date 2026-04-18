@@ -17,14 +17,17 @@
 
 ## 🧬 About Me
 
-**At the intersection of Biology & Computer Science**
+**Self-appointed scientist at the intersection of Biology & Computer Science**
 
-I'm a Computer Science student researching **visual cortical prosthetics** — building AI systems that can interface with neural systems. I write code that bridges biological understanding with machine intelligence.
+The universe's convergence has led me to one obsession: building the missing layer between a camera and a blind person's visual cortex.
 
-- 🔬 Research: Visual Cortical Prosthetics & Neural Signal Processing
-- 💻 Building: AI/ML models with PyTorch
-- 🌐 Development: Django web applications
-- 📓 Prototyping: Google Colab
+I operate at the boundary where **neuroscience papers meet PyTorch notebooks** — a domain most consider either too biological for engineers or too technical for biologists. I disagree with both camps.
+
+Currently a CE student at KKU. Neuroscience didn't invite me. I picked the lock. Everything here was built in the lab — which is just my room — someone had to, and I was already awake at 3am.
+
+- 🧪 Obsession: Cortical visual prosthetics — phosphene encoders, V1 mapping, electrode interfaces
+- ⚗️ Job: Neuroscientist. (Unverified.)
+- 📡 Peer reviewed? (Inshallah).
 
 ---
 
