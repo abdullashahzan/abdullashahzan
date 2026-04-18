@@ -29,7 +29,7 @@ Currently a CE student at KKU. Neuroscience didn't invite me. I picked the lock.
 - ⚗️ Job: Neuroscientist. (Unverified.)
 - 📡 Peer reviewed? (Inshallah).
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://myportfolioshahzan.pythonanywhere.com/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://myportfolioshahzan.pythonanywhere.com/)
 
 *The design is intentional. I have not yet decided what the intention is.*
 
@@ -41,7 +41,7 @@ Currently a CE student at KKU. Neuroscience didn't invite me. I picked the lock.
 
 <div align="center" style="padding: 0px 10px;">
 
-[![Cortical Prosthetics Research](https://img.shields.io/badge/Cortical_Prosthetics_Research-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullashahzan/cortical-prosthetics-research)
+[![Cortical Prosthetics Research](https://img.shields.io/badge/-Cortical_Prosthetics_Research-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullashahzan/cortical-prosthetics-research)
 
 *Unsupervised obsession...*
 
