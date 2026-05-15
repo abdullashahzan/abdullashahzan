@@ -43,21 +43,23 @@
   <tr>
     <td width="55%" valign="top">
 
-### 🧬 > /usr/bin/about_me
+<h3>🧬 > /usr/bin/about_me</h3>
 
-**Self-appointed scientist at the intersection of Biology & Computer Science**
+<b>Self-appointed scientist at the intersection of Biology & Computer Science</b>
 
 The universe's convergence has led me to one obsession: building the missing layer between a camera and a blind person's visual cortex.
 
-I operate at the boundary where **neuroscience papers meet PyTorch notebooks** — a domain most consider either too biological for engineers or too technical for biologists.
+I operate at the boundary where <b>neuroscience papers meet PyTorch notebooks</b> — a domain most consider either too biological for engineers or too technical for biologists.
 
-- 🧪 **Obsession:** Cortical visual prosthetics — phosphene encoders, V1 mapping, electrode interfaces
-- ⚗️ **Job:** Neuroscientist. (Unverified.)
-- 📡 **Peer reviewed?** (Inshallah).
+<ul>
+  <li>🧪 <b>Obsession:</b> Cortical visual prosthetics — phosphene encoders, V1 mapping, electrode interfaces</li>
+  <li>⚗️ <b>Job:</b> Neuroscientist. (Unverified.)</li>
+  <li>📡 <b>Peer reviewed?</b> (Inshallah).</li>
+</ul>
 
 <br/>
 
-### 🛠️ > /usr/bin/tech_stack
+<h3>🛠️ > /usr/bin/tech_stack</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
@@ -73,7 +75,7 @@ I operate at the boundary where **neuroscience papers meet PyTorch notebooks** �
     </td>
     <td width="45%" valign="top">
 
-### 📊 > /usr/bin/stats
+<h3>📊 > /usr/bin/stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullashahzan&show_icons=true&theme=matrix&hide_border=true" width="100%" />
@@ -124,7 +126,7 @@ I operate at the boundary where **neuroscience papers meet PyTorch notebooks** �
 
 <div align="center">
 
-*"What I cannot create, I do not understand." — Richard Feynman*
+<i>"What I cannot create, I do not understand." — Richard Feynman</i>
 
 <br/>
 
@@ -149,7 +151,9 @@ I operate at the boundary where **neuroscience papers meet PyTorch notebooks** �
 
 <br/>
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-00ff00?style=for-the-badge&logo=firefox&logoColor=black)](https://myportfolioshahzan.pythonanywhere.com/)
+<a href="https://myportfolioshahzan.pythonanywhere.com/">
+  <img src="https://img.shields.io/badge/Portfolio_Website-00ff00?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio Website" />
+</a>
 
 <br/>
 <code>[SCI-LAB] ~ # exit</code>
