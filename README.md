@@ -42,49 +42,35 @@
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-
-<h3>🧬 > /usr/bin/about_me</h3>
-
-<b>Self-appointed scientist at the intersection of Biology & Computer Science</b>
-
-The universe's convergence has led me to one obsession: building the missing layer between a camera and a blind person's visual cortex.
-
-I operate at the boundary where <b>neuroscience papers meet PyTorch notebooks</b> — a domain most consider either too biological for engineers or too technical for biologists.
-
-<ul>
-  <li>🧪 <b>Obsession:</b> Cortical visual prosthetics — phosphene encoders, V1 mapping, electrode interfaces</li>
-  <li>⚗️ <b>Job:</b> Neuroscientist. (Unverified.)</li>
-  <li>📡 <b>Peer reviewed?</b> (Inshallah).</li>
-</ul>
-
-<br/>
-
-<h3>🛠️ > /usr/bin/tech_stack</h3>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-</p>
-
+      <h3>🧬 > /usr/bin/about_me</h3>
+      <b>Self-appointed scientist at the intersection of Biology & Computer Science</b><br/><br/>
+      The universe's convergence has led me to one obsession: building the missing layer between a camera and a blind person's visual cortex.<br/><br/>
+      I operate at the boundary where <b>neuroscience papers meet PyTorch notebooks</b> — a domain most consider either too biological for engineers or too technical for biologists.<br/><br/>
+      <ul>
+        <li>🧪 <b>Obsession:</b> Cortical visual prosthetics — phosphene encoders, V1 mapping, electrode interfaces</li>
+        <li>⚗️ <b>Job:</b> Neuroscientist. (Unverified.)</li>
+        <li>📡 <b>Peer reviewed?</b> (Inshallah).</li>
+      </ul><br/><br/>
+      <h3>🛠️ > /usr/bin/tech_stack</h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+      </p>
     </td>
     <td width="45%" valign="top">
-
-<h3>📊 > /usr/bin/stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullashahzan&show_icons=true&theme=matrix&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullashahzan&layout=compact&theme=matrix&hide_border=true" width="100%" />
-</p>
-
+      <h3>📊 > /usr/bin/stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=abdullashahzan&amp;show_icons=true&amp;theme=matrix&amp;hide_border=true" width="100%" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullashahzan&amp;layout=compact&amp;theme=matrix&amp;hide_border=true" width="100%" />
+      </p>
     </td>
   </tr>
 </table>
