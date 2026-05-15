@@ -33,7 +33,7 @@
 <br/>
 
 <div align="center">
-  <code>Last login: Sun Oct 27 03:14:15 on sci_lab_v1</code><br/>
+  <code>Last updated: Sat May 16 01:14:15 on sci_lab_v1</code><br/>
   <code>[SCI-LAB] ~ # systemctl status researcher_profile.service</code>
 </div>
 
@@ -86,7 +86,7 @@
         <table border="1" cellpadding="0" cellspacing="0">
           <tr>
             <th align="left" bgcolor="#333" style="color: #fff; padding: 5px; font-family: monospace;">
-              🔴 🟡 🟢 Terminal: research_v1_mapping.gif
+              🔴 🟡 🟢 Terminal: research.gif
             </th>
           </tr>
           <tr>
