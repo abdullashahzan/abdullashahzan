@@ -66,10 +66,10 @@
     <td width="45%" valign="top">
       <h3>📊 > /usr/bin/stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=abdullashahzan&amp;show_icons=true&amp;theme=matrix&amp;hide_border=true" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=abdullashahzan&amp;theme=matrix&amp;hide_border=true" width="100%" />
       </p>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullashahzan&amp;layout=compact&amp;theme=matrix&amp;hide_border=true" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullashahzan&amp;layout=compact&amp;theme=matrix&amp;hide_border=true" width="100%" />
       </p>
     </td>
   </tr>
